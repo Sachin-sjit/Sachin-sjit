@@ -30,19 +30,6 @@
 
 ---
 
-## 🚀 Projects
-
-* 🔥 Resume Analyzer (in progress)
-* 📌 More coming soon...
-
----
-
-## 📊 GitHub Stats
-
-![Sachin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sachin-sjit\&show_icons=true\&theme=tokyonight)
-
----
-
 ## 📫 Connect with Me
 
 * 💼 LinkedIn: (https://www.linkedin.com/in/sachin-b-979869322/)
