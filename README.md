@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi there 👋, I'm Sachin B
 
-<!--
-**Sachin-sjit/Sachin-sjit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 IT Student | 💻 Java Full Stack Developer | 🚀 Future Entrepreneur
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 About Me
+
+* 🎓 Studying Information Technology
+* 💡 Passionate about solving real-world problems using tech
+* 🧠 Learning: DSA, System Design, Full Stack Development
+
+---
+
+## 🛠️ Tech Stack
+
+* 💻 Languages: Java, C, C++, JavaScript
+* 🌐 Web: HTML, CSS, React
+* ⚙️ Backend: Spring Boot
+* 🗄️ Database: MongoDB
+* 🧠 CS Fundamentals: DSA, OOPS
+
+---
+
+## 📌 Current Focus
+
+* 🔹 Solving LeetCode problems daily
+* 🔹 Building real-world projects
+* 🔹 Improving problem-solving & coding skills
+
+---
+
+## 🚀 Projects
+
+* 🔥 Resume Analyzer (in progress)
+* 📌 More coming soon...
+
+---
+
+## 📊 GitHub Stats
+
+![Sachin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sachin-sjit\&show_icons=true\&theme=tokyonight)
+
+---
+
+## 📫 Connect with Me
+
+* 💼 LinkedIn: (https://www.linkedin.com/in/sachin-b-979869322/)
+* 📧 Email: (sachinb322006@gmail.com)
+
+---
+
+⭐️ *"Consistency beats talent when talent doesn’t stay consistent."*
