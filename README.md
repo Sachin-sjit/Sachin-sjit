@@ -1,3 +1,9 @@
+<h1 align="center">Hi 👋, I'm Sachin</h1>
+<h3 align="center">Java Full Stack Developer | Problem Solver</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Java+Developer;DSA+Enthusiast;Building+Real+Projects;Future+Entrepreneur&center=true&width=500&height=50">
+</p>
 # Hi there 👋, I'm Sachin B
 
 🎓 IT Student | 💻 Java Full Stack Developer | 🚀 Future Entrepreneur
